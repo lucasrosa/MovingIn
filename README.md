@@ -5,6 +5,9 @@ An iOS 6 App that helps people compare apartments/houses they are willing to buy
 
 MovingIn uses SQLite in Core Data to store its data and follows the MVC architecture.
 
+Due to copyright the source files do not include the original images, 
+although they have the same dimensions and can be easily replaced.
+
 ===========
 Description
 ===========
@@ -35,7 +38,7 @@ License
 
 The MIT License (MIT)
 
-Copyright (c) 2013 Lucas Rosa
+Copyright (c) 2013 Lucas Furlani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
