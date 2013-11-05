@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1811" systemVersion="12C2034" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="MVIReview" representedClassName="MVIReview" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ambience" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="availability" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="bed" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="bedding" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="bedsideTable" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="cable" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="chair" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="cleaningSupplies" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="desk" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="discount" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="dishes" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="doubleSizeBed" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="dresser" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="electricity" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="furniture" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="heat" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="hotWater" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="includedItems" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="individualWashroom" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="internet" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="lamp" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="laundry" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="location" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="loungingChair" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="microwave" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="neighborhood" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="orderIdentifier" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="origin" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="oven" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="owner" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="potsAndPans" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="priceXTotalPrice" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="quality" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="recommendation" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="rentPrice" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="roomates" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="stove" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="support" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="toaster" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="totalPrice" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="tv" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="wardrobe" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="washingMachine" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="MVIReview" positionX="160" positionY="192" width="128" height="735"/>
+    </elements>
+</model>
